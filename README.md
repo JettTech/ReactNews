@@ -13,8 +13,11 @@ What news will you find?  Click [here]( https://)!!
  - - - -
 
  ### Tech Used ###
+ * React
  * JavaScipt
- * jQuery
- * Moment.js
+ * React-Materialize
+ * Cheerio
+ * Axios
+ * MongoDB
  
 Built by [Lisa Jetton](https://github.com/JettTech/).
